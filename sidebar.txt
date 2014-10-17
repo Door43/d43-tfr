@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tfr:home|Door43 (tfr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tfr|d43-tfr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tfr/archive/master.zip|d43-tfr.zip]]
+
+**Recent Changes**
+{{changes>ns = tfr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tfr|Ethnologue data]]
+
